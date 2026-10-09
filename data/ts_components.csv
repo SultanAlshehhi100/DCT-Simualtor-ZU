@@ -1,0 +1,124 @@
+component,key,effect,series,kind
+Day of week,Mon,-0.03498516655686043,Total,daily
+Day of week,Tue,-0.013519829672695653,Total,daily
+Day of week,Wed,-0.005359140421424346,Total,daily
+Day of week,Thu,-0.004449026099976956,Total,daily
+Day of week,Fri,0.04995329305989191,Total,daily
+Day of week,Sat,0.07777960749292898,Total,daily
+Day of week,Sun,-0.0694197378018665,Total,daily
+Month of year,1,0.04348676144066527,Total,daily
+Month of year,2,0.07902185759071692,Total,daily
+Month of year,3,-0.046277105839614516,Total,daily
+Month of year,4,0.03947880451544854,Total,daily
+Month of year,5,-0.040244121664049226,Total,daily
+Month of year,6,-0.09968979106100744,Total,daily
+Month of year,7,-0.04214587357009305,Total,daily
+Month of year,8,0.012184678524413843,Total,daily
+Month of year,9,-0.10758862136447464,Total,daily
+Month of year,10,0.02674914783130815,Total,daily
+Month of year,11,0.06163020313019531,Total,daily
+Month of year,12,0.07679520884221545,Total,daily
+Month of year,1,0.027465121155082282,Total,weekly
+Month of year,2,0.05164356005571108,Total,weekly
+Month of year,3,0.08363315879820292,Total,weekly
+Month of year,4,0.0950932769386683,Total,weekly
+Month of year,5,-0.06400868555596176,Total,weekly
+Month of year,6,-0.12953845592073168,Total,weekly
+Month of year,7,-0.048355231189172836,Total,weekly
+Month of year,8,-0.010784276364112748,Total,weekly
+Month of year,9,-0.12367047049887457,Total,weekly
+Month of year,10,0.05205278880895854,Total,weekly
+Month of year,11,0.03642440280349473,Total,weekly
+Month of year,12,0.03966162403187155,Total,weekly
+Event effect (full week),ADIPEC,-0.06326972120320867,Total,weekly
+Event effect (full week),Eid al-Adha holiday,0.13174195606185174,Total,weekly
+Event effect (full week),Eid al-Fitr holiday,0.17771071570645344,Total,weekly
+Event effect (full week),F1 Abu Dhabi Grand Prix,0.03879392271831863,Total,weekly
+Event effect (full week),New Year,0.2501706187496723,Total,weekly
+Event effect (full week),Ramadan,-0.22206335863246576,Total,weekly
+Event effect (full week),UAE National Day,-0.022551314131362542,Total,weekly
+Season vs Winter,Spring,-0.076875962,Total,monthly
+Season vs Winter,Summer,-0.11081554,Total,monthly
+Season vs Winter,Autumn,-0.06598332,Total,monthly
+Day of week,Mon,-0.02081782874005652,International,daily
+Day of week,Tue,-0.0029493195451832043,International,daily
+Day of week,Wed,0.007493229090281524,International,daily
+Day of week,Thu,0.022218532249979453,International,daily
+Day of week,Fri,0.02627667076184767,International,daily
+Day of week,Sat,0.00157994739769841,International,daily
+Day of week,Sun,-0.0338012312145685,International,daily
+Month of year,1,0.1262699798664073,International,daily
+Month of year,2,0.15020888124291967,International,daily
+Month of year,3,0.0018370604283652766,International,daily
+Month of year,4,0.11623343176063657,International,daily
+Month of year,5,-0.06020959989612248,International,daily
+Month of year,6,-0.19916125091595957,International,daily
+Month of year,7,-0.1562631654358993,International,daily
+Month of year,8,-0.051203520305436324,International,daily
+Month of year,9,-0.16110589259245575,International,daily
+Month of year,10,0.047701706542078684,International,daily
+Month of year,11,0.10374234111030924,International,daily
+Month of year,12,0.09044815012501455,International,daily
+Month of year,1,0.09665319045601155,International,weekly
+Month of year,2,0.1069080596304608,International,weekly
+Month of year,3,0.1559888783940864,International,weekly
+Month of year,4,0.16145200059169224,International,weekly
+Month of year,5,-0.08137370371191426,International,weekly
+Month of year,6,-0.22991706409886203,International,weekly
+Month of year,7,-0.15421184306036487,International,weekly
+Month of year,8,-0.06082873578845469,International,weekly
+Month of year,9,-0.18780341592358904,International,weekly
+Month of year,10,0.09885749197090501,International,weekly
+Month of year,11,0.050009848468770546,International,weekly
+Month of year,12,0.05973427251503747,International,weekly
+Event effect (full week),ADIPEC,-0.028504852790943825,International,weekly
+Event effect (full week),Eid al-Adha holiday,0.05451995195865601,International,weekly
+Event effect (full week),Eid al-Fitr holiday,-0.03059059029916594,International,weekly
+Event effect (full week),F1 Abu Dhabi Grand Prix,0.14373872503445004,International,weekly
+Event effect (full week),New Year,0.3531407212128325,International,weekly
+Event effect (full week),Ramadan,-0.20291575682246316,International,weekly
+Event effect (full week),UAE National Day,-0.10823769430311937,International,weekly
+Season vs Winter,Spring,-0.095515956,International,monthly
+Season vs Winter,Summer,-0.2449501,International,monthly
+Season vs Winter,Autumn,-0.10069592,International,monthly
+Day of week,Mon,-0.05034232994390988,Domestic,daily
+Day of week,Tue,-0.023859379797489335,Domestic,daily
+Day of week,Wed,-0.018100889199209266,Domestic,daily
+Day of week,Thu,-0.03164554009993412,Domestic,daily
+Day of week,Fri,0.07567800290715718,Domestic,daily
+Day of week,Sat,0.15587536493681844,Domestic,daily
+Day of week,Sun,-0.10760522880343798,Domestic,daily
+Month of year,1,-0.036950585879904664,Domestic,daily
+Month of year,2,-0.005869663585781843,Domestic,daily
+Month of year,3,-0.10946629747545532,Domestic,daily
+Month of year,4,-0.06597654268546811,Domestic,daily
+Month of year,5,-0.025478718888520678,Domestic,daily
+Month of year,6,0.008056753320010261,Domestic,daily
+Month of year,7,0.08917273666811387,Domestic,daily
+Month of year,8,0.0907329949715219,Domestic,daily
+Month of year,9,-0.03823725161832769,Domestic,daily
+Month of year,10,0.008847038505883245,Domestic,daily
+Month of year,11,0.014295506589729843,Domestic,daily
+Month of year,12,0.06764502380562652,Domestic,daily
+Month of year,1,-0.03925602677835474,Domestic,weekly
+Month of year,2,-0.02037725538206429,Domestic,weekly
+Month of year,3,-0.00255220914707931,Domestic,weekly
+Month of year,4,0.014414488517576648,Domestic,weekly
+Month of year,5,-0.058131562532783426,Domestic,weekly
+Month of year,6,-0.01835855378710001,Domestic,weekly
+Month of year,7,0.06793731766606088,Domestic,weekly
+Month of year,8,0.053920669882092646,Domestic,weekly
+Month of year,9,-0.04630676428837622,Domestic,weekly
+Month of year,10,0.0069928640860044905,Domestic,weekly
+Month of year,11,0.022476391342559663,Domestic,weekly
+Month of year,12,0.020699598941715202,Domestic,weekly
+Event effect (full week),ADIPEC,-0.10166354565011088,Domestic,weekly
+Event effect (full week),Eid al-Adha holiday,0.2040732626273102,Domestic,weekly
+Event effect (full week),Eid al-Fitr holiday,0.4043070954025431,Domestic,weekly
+Event effect (full week),F1 Abu Dhabi Grand Prix,-0.06966766844005139,Domestic,weekly
+Event effect (full week),New Year,0.12384074006554917,Domestic,weekly
+Event effect (full week),Ramadan,-0.25392133407753137,Domestic,weekly
+Event effect (full week),UAE National Day,0.056816074143222574,Domestic,weekly
+Season vs Winter,Spring,-0.067100257,Domestic,monthly
+Season vs Winter,Summer,0.045338307,Domestic,monthly
+Season vs Winter,Autumn,-0.034845408,Domestic,monthly
